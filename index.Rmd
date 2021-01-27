@@ -19,7 +19,7 @@ output:
 
 <center><p style="margin-bottom:5px">Please enter the password to continue:</p></center>
 
-<center><input type="peelharvey" onkeyup="onPass(event)" id="pass"> <iframe id="iframe" frameborder="0" 
+<center><input type="password" onkeyup="onPass(event)" id="pass"> <iframe id="iframe" frameborder="0" 
 style="position: fixed;
 border: none;
 top: 0; right: 0;
