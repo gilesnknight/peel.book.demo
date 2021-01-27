@@ -15,7 +15,7 @@ output:
   text-align: center;
   min-height: 100vh;"}
 
-<center><b><p style="font-size:35px; margin-bottom:5px">Peel Book Login</p></b></center>
+<center><b><p style="font-size:32.5px; margin-bottom:5px">Peel Book Login</p></b></center>
 
 <center><p style="margin-bottom:5px">Please enter the password to continue:</p></center>
 
