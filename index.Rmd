@@ -1,9 +1,17 @@
 ---
+title: "Peel Book Login"
 output:
   html_document:
     includes:
       in_header: pass.html
 ---
+
+
+<style>
+  .title{
+    display: none;
+  }
+</style>
 
 ```{r, echo=F, out.width="60%", fig.align='center'}
 ```
